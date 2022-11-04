@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hridesh Gupta
-- 👀 I’m interested in designing, developing beautiful things
+- 👀 I’m interested in designing, developing beautiful experiences.
 - 📫 You can reach me on hridesh107@gmail.com or +1(647) 215 0430
 
 <!---
